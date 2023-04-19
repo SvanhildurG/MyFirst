@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import './quiz.dart';
 import './result.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(MyApp()); //Hér er komment líka
 
 class MyApp extends StatefulWidget {
   @override

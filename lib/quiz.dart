@@ -15,6 +15,7 @@ class Quiz extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //Hér er komment bara til að sjá hvernig það kemur út á GitHub
     return Column(
       children: [
         Question(
